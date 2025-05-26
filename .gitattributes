@@ -1,0 +1,1 @@
+app/src/main/assets/sherpa-ncnn-streaming-zipformer-small-bilingual-zh-en-2023-02-16.tar.bz2 filter=lfs diff=lfs merge=lfs -text
